@@ -26,6 +26,16 @@ const items = [
       "Maintained 48+ Git commits on a collaborative GitHub workflow.",
     ],
   },
+  {
+    icon: GraduationCap,
+    role: "B.Sc. Computer Science",
+    org: "Annai Violet Arts and Science College, Chennai",
+    period: "2023 — 2026",
+    points: [
+      "Core CS foundations: data structures, OS, networking, and programming.",
+      "Hands-on coursework in web development and database fundamentals.",
+    ],
+  },
 ];
 
 export default function Experience() {
