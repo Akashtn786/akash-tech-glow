@@ -69,9 +69,9 @@ export default function Hero() {
 
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.7 }}
             className="mt-10 flex items-center gap-6 text-xs font-mono text-muted-foreground">
-            <span className="flex items-center gap-1.5"><MapPin className="h-3.5 w-3.5" /> Chennai, India</span>
+            <span className="flex items-center gap-1.5"><MapPin className="h-3.5 w-3.5" /> Shenoy Nagar, Chennai</span>
             <span>•</span>
-            <span>50+ users supported / month</span>
+            <span>10+ citizens supported / month</span>
             <span>•</span>
             <span>40% faster turnaround</span>
           </motion.div>

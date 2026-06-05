@@ -10,20 +10,30 @@ const items = [
     period: "May 2026 — Present · Chennai",
     points: [
       "Assembled and repaired 10+ desktops/month; verified via POST diagnostics and stress tests.",
-      "Resolved 20+ hardware/software faults per month — cut turnaround time by 40%.",
-      "Installed Windows OS (7/10/11), drivers, antivirus, and LAN/Wi-Fi for local workstations.",
-      "Supported 50+ citizens/month with Aadhaar, PAN, and DigiLocker services.",
+      "Resolved 20+ hardware/software issues per month — cut turnaround time by 40%.",
+      "Configured Windows OS (7/10/11), drivers, antivirus, and LAN/Wi-Fi for local workstations.",
+      "Provided helpdesk support to 10+ citizens/month for Aadhaar, PAN, and DigiLocker services.",
     ],
   },
   {
     icon: GraduationCap,
     role: "Full Stack Web Development Intern",
     org: "IETE & Pantech E Learning",
-    period: "Jun 2025 · Chennai",
+    period: "Jun 2025 (1–15 Jun) · Chennai",
     points: [
-      "Built responsive websites with HTML5, CSS3, and JavaScript.",
+      "Built responsive web pages with HTML5, CSS3, and JavaScript.",
       "Developed a Java CRUD application end-to-end.",
-      "Maintained 48+ Git commits and collaborative GitHub workflow.",
+      "Maintained 48+ Git commits on a collaborative GitHub workflow.",
+    ],
+  },
+  {
+    icon: GraduationCap,
+    role: "B.Sc. Computer Science",
+    org: "Annai Violet Arts and Science College, Chennai",
+    period: "2023 — 2026",
+    points: [
+      "Core CS foundations: data structures, OS, networking, and programming.",
+      "Hands-on coursework in web development and database fundamentals.",
     ],
   },
 ];
