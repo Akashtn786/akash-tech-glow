@@ -27,13 +27,13 @@ export default function About() {
           </p>
           <p className="mt-4 text-muted-foreground leading-relaxed">
             I reduced repair turnaround by <span className="text-foreground font-medium">40%</span> while
-            supporting <span className="text-foreground font-medium">50+ citizens/month</span> through Aadhaar,
-            PAN, and DigiLocker services. Alongside hardware, I build responsive websites and explore
+            providing helpdesk support to <span className="text-foreground font-medium">10+ citizens/month</span> for
+            Aadhaar, PAN, and DigiLocker services. Alongside hardware, I build responsive websites and explore
             Python, Java, and AI-assisted tooling.
           </p>
           <div className="mt-6 grid grid-cols-3 gap-3 font-mono text-xs">
             <Stat k="40%" v="Faster turnaround" />
-            <Stat k="50+" v="Users / month" />
+            <Stat k="10+" v="Users / month" />
             <Stat k="48+" v="GitHub commits" />
           </div>
         </motion.div>
